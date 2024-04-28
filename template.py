@@ -18,13 +18,13 @@ list_files = [
     f"src/{project_name}/constants/__init__.py",
     f"src/{project_name}/config/configuration.py",
     f"src/{project_name}/utils/common.py",
-    "config/config.yaml"
-    "params.yaml"
-    "app.py"
-    "main.py"
-    "setup .py"
-    "Dockerfile"
-    "requirements.txt"
+    "config/config.yaml",
+    "params.yaml",
+    "app.py",
+    "main.py",
+    "setup .py",
+    "Dockerfile",
+    "requirements.txt",
     "research/trials.ipynb"
 ]
 
