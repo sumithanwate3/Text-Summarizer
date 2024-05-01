@@ -3,7 +3,7 @@ from src.text_summarizer.config.configuration import ConfigurationManager
 from src.text_summarizer.logging import logger
 
 
-class DataIngestiontTrainingPipeline:
+class DataIngestionTrainingPipeline:
     def __init__(self):
         pass
     def main(self):
