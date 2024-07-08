@@ -66,6 +66,10 @@ The project is structured to follow a modular and configurable workflow, making 
 #### Next Steps
 - Potential enhancements could include hyperparameter tuning, additional metrics evaluation, and deployment strategies for the trained model.
 
-  
 
+### Achnowledments
+Jay Alammar Blog - [https://jalammar.github.io/illustrated-transformer/]
+Transformers - [https://github.com/huggingface/transformers]
+   Paper: [https://arxiv.org/abs/1706.03762]
+Framework Used - [https://pytorch.org/]
 
