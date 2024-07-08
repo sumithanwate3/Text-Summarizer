@@ -67,9 +67,11 @@ The project is structured to follow a modular and configurable workflow, making 
 - Potential enhancements could include hyperparameter tuning, additional metrics evaluation, and deployment strategies for the trained model.
 
 
-### Achnowledments
-Jay Alammar Blog - [https://jalammar.github.io/illustrated-transformer/]
-Transformers - [https://github.com/huggingface/transformers]
-   Paper: [https://arxiv.org/abs/1706.03762]
-Framework Used - [https://pytorch.org/]
+### Acknowledgments
+
+- Jay Alammar Blog: [Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+- Hugging Face Transformers Library: [GitHub Repository](https://github.com/huggingface/transformers), [Paper](https://arxiv.org/abs/1706.03762)
+- PyTorch Framework: [Official Website](https://pytorch.org/)
+
+These resources have been instrumental in developing and understanding the components used in this project.
 
